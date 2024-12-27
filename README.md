@@ -1,11 +1,11 @@
 # Hi there, I'm Jyotirmoy Das Deep!
 
-Welcome to my GitHub profile! I'm an **Incoming Software Engineer at JLR** and a **final-year Computer Science student** specialising in **AI, Blockchain, and VR** at Brunel University London. With a passion for creating innovative and impactful solutions, I combine my technical skills and research expertise to solve real-world challenges.
+Welcome to my GitHub profile! I'm an **Incoming Software Engineer at JLR** and a **final-year Computer Science student** specialising in **AI, Blockchain, and VR** at Brunel University of London. With a passion for creating innovative and impactful solutions, I combine my technical skills and research expertise to solve real-world challenges.
 
 ---
 
 ### **About Me**
-- **Education**: Final-year Computer Science student at Brunel University London.
+- **Education**: Final-year Computer Science student at Brunel University of London.
 - **Experience**:  
   - Completed a 1-year placement as a Software Engineer at Jaguar Land Rover. 
   - Incoming Software Engineer at Jaguar Land Rover. 
